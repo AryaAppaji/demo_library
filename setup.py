@@ -1,12 +1,12 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="mypackage",
+    name="arya-demo-package",
     version="0.1",
     packages=find_packages(),
     install_requires=[],  # Add any dependencies here
     author="Arya Appaji",
-    author_email="your.email@example.com",
+    author_email="maappaji111@gmail.com",
     description="A package containing basic math and string operations",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
